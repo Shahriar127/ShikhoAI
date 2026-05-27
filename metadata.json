@@ -1,0 +1,6 @@
+{
+  "name": "ShikhoAI",
+  "description": "Multimodal AI Learning Assistant with text, voice, and visual inputs supporting Bangla and English.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
